@@ -11,7 +11,6 @@ class App extends Component {
           <p>
             I was changed!
           </p>
-
         </header>
       </div>
     );
